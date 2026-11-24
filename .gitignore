@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Excel temp files
+~$*.xlsx
+
+# Power BI cache
+*.pbix.tmp
+.pbi/
