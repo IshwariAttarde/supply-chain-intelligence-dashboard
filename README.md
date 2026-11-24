@@ -233,7 +233,7 @@ supply-chain-intelligence-dashboard/
 
 **Ishwari Attarde**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- GitHub: [IshwariAttarde](https://github.com/your-username)
+- LinkedIn: [https://www.linkedin.com/in/ishwariattarde/](https://www.linkedin.com/in/your-linkedin)
 
 ⭐ If you found this project useful, please give it a star!
